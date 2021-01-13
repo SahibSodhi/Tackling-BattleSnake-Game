@@ -2,7 +2,7 @@
 
 Battlesnake is a multi-player game similar to the original game where players compete with each other.
 
-![Alt Text](https://github.com/SahibSodhi/Tackling-BattleSnake-Game/raw/master/render.gif)
+![Alt Text](https://github.com/SahibSodhi/Tackling-BattleSnake-Game/blob/main/render.gif)
 
 ## Features
 
